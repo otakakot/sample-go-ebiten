@@ -1,6 +1,6 @@
 module github.com/otakakot/sample-go-ebiten
 
-go 1.25.0
+go 1.26.0
 
 require (
 	github.com/hajimehoshi/ebiten/v2 v2.9.8
